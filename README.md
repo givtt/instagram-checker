@@ -1,5 +1,5 @@
 
-# Instagram Accounts Checker V1
+# Instagram Brute Force V1
 اداة فحص حسابات انستقرام !
 # الميزات الحصرية
 - فحص جميع انواع الحسابات
